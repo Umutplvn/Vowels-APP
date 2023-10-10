@@ -1,6 +1,6 @@
 # Project : Counting Vowels in a Sentence
 
- # Live at : https://umutplvn.github.io/Vowels/
+## Live at : https://umutplvn.github.io/Vowels/
 
 ## Description
 - Create a code on JS to calculate the number of vowels in a text.
